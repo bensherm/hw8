@@ -1,0 +1,6 @@
+C:\CC7\HW\HW8\HW8\obj\Debug\FleetSim.csprojResolveAssemblyReference.cache
+C:\CC7\HW\HW8\HW8\bin\Debug\HW8.dll.config
+C:\CC7\HW\HW8\HW8\bin\Debug\HW8.dll
+C:\CC7\HW\HW8\HW8\bin\Debug\HW8.pdb
+C:\CC7\HW\HW8\HW8\obj\Debug\HW8.dll
+C:\CC7\HW\HW8\HW8\obj\Debug\HW8.pdb
